@@ -1,111 +1,240 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017springcd電腦輔助設計實習 協同產品設計實習(虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/hw.atom.xml" rel="self"></link><id>./</id><updated>2017-03-26T12:08:00+08:00</updated><entry><title>協同產品設計實習 第五周作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-wu-zhou-zuo-ye.html" rel="alternate"></link><published>2017-03-26T12:08:00+08:00</published><updated>2017-03-26T12:08:00+08:00</updated><author><name>40443111</name></author><id>tag:,2017-03-26:./xie-tong-chan-pin-she-ji-shi-xi-di-wu-zhou-zuo-ye.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017springcd電腦輔助設計實習 協同產品設計實習(虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/hw.atom.xml" rel="self"></link><id>./</id><updated>2017-04-03T12:08:00+08:00</updated><entry><title>協同產品設計實習 第六周作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-liu-zhou-zuo-ye.html" rel="alternate"></link><published>2017-04-03T12:08:00+08:00</published><updated>2017-04-03T12:08:00+08:00</updated><author><name>40443111</name></author><id>tag:,2017-04-03:./xie-tong-chan-pin-she-ji-shi-xi-di-liu-zhou-zuo-ye.html</id><summary type="html">&lt;p&gt;四連桿運動模擬&lt;p&gt;
 
-&lt;h2&gt;單連桿模擬&lt;/h2&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/aeKd2fck0Ns?ecver=1" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;h2&gt;利用v-rep設定單連桿運動&lt;/h2&gt;
+&lt;p&gt;八連桿運動模擬&lt;p&gt;
+
+
+
+
+
+
+##四連桿零件 
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/0XuW6fqn_tg?ecver=1" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+##四連桿組合 
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/xqofOG86Xg0?ecver=1" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+##四連桿零v-rep
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/pph68qt9K6I?ecver=1" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+##8bars零件 
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/QmDVc58vzr0?ecver=1" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+##8bars零件 
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/xqofOG86Xg0?ecver=1" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+##8bars零件 
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/_9PB35Xnj3c?ecver=1" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+##心得
+這次是花了最多時間的一次,也是重畫最多次的一遍,幸好最後還是撐工畫出來了</summary><category term="HW"></category></entry><entry><title>協同產品設計實習 第五周作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-wu-zhou-zuo-ye.html" rel="alternate"></link><published>2017-03-26T12:08:00+08:00</published><updated>2017-03-26T12:08:00+08:00</updated><author><name>40443111</name></author><id>tag:,2017-03-26:./xie-tong-chan-pin-she-ji-shi-xi-di-wu-zhou-zuo-ye.html</id><summary type="html">&lt;p&gt;單連桿機構轉入 V-rep 進行運動模擬&lt;p&gt;
+
+
+
+
+
+##單連桿模擬
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/aeKd2fck0Ns?ecver=1" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+##利用v-rep設定單連桿運動
+
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/mC2ZDZPBd-8?ecver=1" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;h2&gt;心得&lt;/h2&gt;
-&lt;p&gt;本來想說怎麼部會動 原來是數值給的不夠&lt;/p&gt;</summary><category term="HW"></category></entry><entry><title>協同產品設計實習 第四周作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-si-zhou-zuo-ye.html" rel="alternate"></link><published>2017-03-19T12:08:00+08:00</published><updated>2017-03-19T12:08:00+08:00</updated><author><name>40443111</name></author><id>tag:,2017-03-19:./xie-tong-chan-pin-she-ji-shi-xi-di-si-zhou-zuo-ye.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+##心得
+本來想說怎麼部會動 原來是數值給的不夠</summary><category term="HW"></category></entry><entry><title>協同產品設計實習 第四周作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-si-zhou-zuo-ye.html" rel="alternate"></link><published>2017-03-19T12:08:00+08:00</published><updated>2017-03-19T12:08:00+08:00</updated><author><name>40443111</name></author><id>tag:,2017-03-19:./xie-tong-chan-pin-she-ji-shi-xi-di-si-zhou-zuo-ye.html</id><summary type="html">&lt;p&gt;利用Solvespace及Onshape繪製四連桿機構並組立&lt;p&gt;
 
-&lt;h1&gt;第四週作業&lt;/h1&gt;
-&lt;p&gt;&lt;p&gt;利用簡報說明安裝 Hyperworks 套件過程, 透過使用 Hyperworks 進行連桿機構零件的應力分析與機構運動模擬.&lt;/p&gt;&lt;/p&gt;
-&lt;h2&gt;零件1&lt;/h2&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/36DwIO738Cc" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;h2&gt;零件2&lt;/h2&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/z4ATr6gLUHc" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;h2&gt;零件3&lt;/h2&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/jCcAs1av3e0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;h2&gt;組裝&lt;/h2&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ppPs7k-V0IQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="HW"></category></entry><entry><title>協同產品設計實習 第三周作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-san-zhou-zuo-ye.html" rel="alternate"></link><published>2017-03-12T12:08:00+08:00</published><updated>2017-03-12T12:08:00+08:00</updated><author><name>40443111</name></author><id>tag:,2017-03-12:./xie-tong-chan-pin-she-ji-shi-xi-di-san-zhou-zuo-ye.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;將四連桿機構組立轉成STL檔，並轉入V-rep&lt;p&gt;
+&lt;p&gt;平面四連桿機構的運動路徑方程式推導&lt;p&gt;
 
-&lt;h2&gt;翻譯影片hyperworks2中文字幕&lt;/h2&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/WGAmkWxPiig" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;h2&gt;內容&lt;/h2&gt;
-&lt;p&gt;The 2017 HyperWorks release has a lot 在2017年HyperWorks發行很多版本&lt;/p&gt;
-&lt;p&gt;of enhancements to the modeling and assembly capabilities 對軟件的建模和組裝能力的增強&lt;/p&gt;
-&lt;p&gt;So we put in a new parts browser with a built-in part library 所以我們在一個新的零件瀏覽器與一個內置零件庫&lt;/p&gt;
-&lt;p&gt;The part library is a great tool for storing and loading work in progress 零件庫是用於存儲和加載正在進行工作的一個很好的工具&lt;/p&gt;
-&lt;p&gt;So you can store a catalog of all the common parts 因此，您可以存儲所有公共部分的目錄&lt;/p&gt;
-&lt;p&gt;that a workgroup needs to use,so they can download their models from their PLM system 工作組需要使用，因此他們可以從他們的PLM系統下載他們的模型&lt;/p&gt;
-&lt;p&gt;and store them locally in a parts library for a work in progress 並將它們本地存儲在正在進行的工作的零件庫中&lt;/p&gt;
-&lt;p&gt;And it keeps revision control on them, 他保持對它們的修訂控制&lt;/p&gt;
-&lt;p&gt;so they can back up to the different versions and reload. 所以他們可以備份到不同的版本並重新加載。&lt;/p&gt;
-&lt;p&gt;And they can also build different configurations now of their models. 他們也可以建立不同的配置到他們現在的的模型。&lt;/p&gt;
-&lt;p&gt;In the configuration modeler now 現在在配置建模器&lt;/p&gt;
-&lt;p&gt;they can import parts from part library and then group 他們可以從零件庫導入零件然後分組&lt;/p&gt;
-&lt;p&gt;them into what we call part sets,which are 他們變成我們所說的部分集&lt;/p&gt;
-&lt;p&gt;convenient groupings of parts. 即零件方便分組&lt;/p&gt;
-&lt;p&gt;And then they can drag those parts together into assemblies, 然後他們可以將這些部分一起拖入組件&lt;/p&gt;
-&lt;p&gt;and configure them for different load 並為不同負載配置它們的&lt;/p&gt;
-&lt;p&gt;cases or different variations of their models. 情況或他們的模型的不同變化&lt;/p&gt;
-&lt;p&gt;the other feature of haveing parts in the software 硬件部分的軟件中的另一個特點&lt;/p&gt;
-&lt;p&gt;is we do part instancing now,too. 我們現在也做實例化&lt;/p&gt;
-&lt;p&gt;So if you load in a part that has 所以如果你加載在一個部分&lt;/p&gt;
-&lt;p&gt;multiple instances through the model,we support that. 我們支持多個實例通過模型&lt;/p&gt;
-&lt;p&gt;We don't have to create multiple copies of it. 我們不必創建它的多個副本&lt;/p&gt;
-&lt;p&gt;We can actually do the instancing,which is very memory efficient. 我們可以做實際，這是非常有效的記憶。&lt;/p&gt;
-&lt;p&gt;Also in the model building assembly 也在模型建築組裝&lt;/p&gt;
-&lt;p&gt;tool set is enhanced ID management as well. 工具集也是增強的ID管理&lt;/p&gt;
-&lt;p&gt;So not only can we assign IDs based on different rules 因此，我們不僅可以根據不同的規則分配ID&lt;/p&gt;
-&lt;p&gt;that you define in the software,but you can import ID systems 您可以在軟件中定義，但可以導入ID系統&lt;/p&gt;
-&lt;p&gt;form spreadsheets,XML files,databases, 形式電子表格，XML文件，數據庫，&lt;/p&gt;
-&lt;p&gt;and so forth,that are then used when 等等，然後在使用&lt;/p&gt;
-&lt;p&gt;it does the renumbering or the assembly of the model. 它進行重新編號或模型的組裝&lt;/p&gt;
-&lt;p&gt;it has to resolve part collisions. 它必須解決部分碰撞。&lt;/p&gt;
-&lt;p&gt;Really important part of doing model assembly 做模型組裝重要的部分&lt;/p&gt;
-&lt;p&gt;is connecting all those parts together. 將所有這些部分連接在一起&lt;/p&gt;
-&lt;p&gt;Connectors are really vital to the overall assembly process. 連接器對整個裝配過程至關重要。&lt;/p&gt;
-&lt;p&gt;The quality of the connector that you create really 您真正創建的連接器的質量&lt;/p&gt;
-&lt;p&gt;determines the outcome of the quality 確定質量的結果&lt;/p&gt;
-&lt;p&gt;of the overall assembled model as well. 對整體組裝模型&lt;/p&gt;
-&lt;p&gt;So for us to get a good high fidelity solution, 所以為我們得到一個良好的高保真度解決方案&lt;/p&gt;
-&lt;p&gt;you have to have a really good connection generation as well. 你必須有一個非常好的連接生成&lt;/p&gt;
-&lt;h2&gt;翻譯影片hyperworks 14-6中文字幕&lt;/h2&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/fTgaulekEZ4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;h2&gt;內容&lt;/h2&gt;
-&lt;p&gt;The 2017 HyperWorks release has a lot 在2017年HyperWorks發行很多版本&lt;/p&gt;
-&lt;p&gt;of enhancements to the modeling and assembly capabilities 對軟件的建模和組裝能力的增強&lt;/p&gt;
-&lt;p&gt;So we put in a new parts browser with a built-in part library 所以我們在一個新的零件瀏覽器與一個內置零件庫&lt;/p&gt;
-&lt;p&gt;The part library is a great tool for storing and loading work in progress 零件庫是用於存儲和加載正在進行工作的一個很好的工具&lt;/p&gt;
-&lt;p&gt;So you can store a catalog of all the common parts 因此，您可以存儲所有公共部分的目錄&lt;/p&gt;
-&lt;p&gt;that a workgroup needs to use,so they can download their models from their PLM system 工作組需要使用，因此他們可以從他們的PLM系統下載他們的模型&lt;/p&gt;
-&lt;p&gt;and store them locally in a parts library for a work in progress 並將它們本地存儲在正在進行的工作的零件庫中&lt;/p&gt;
-&lt;p&gt;And it keeps revision control on them, 他保持對它們的修訂控制&lt;/p&gt;
-&lt;p&gt;so they can back up to the different versions and reload. 所以他們可以備份到不同的版本並重新加載。&lt;/p&gt;
-&lt;p&gt;And they can also build different configurations now of their models. 他們也可以建立不同的配置到他們現在的的模型。&lt;/p&gt;
-&lt;p&gt;In the configuration modeler now 現在在配置建模器&lt;/p&gt;
-&lt;p&gt;they can import parts from part library and then group 他們可以從零件庫導入零件然後分組&lt;/p&gt;
-&lt;p&gt;them into what we call part sets,which are 他們變成我們所說的部分集&lt;/p&gt;
-&lt;p&gt;convenient groupings of parts. 即零件方便分組&lt;/p&gt;
-&lt;p&gt;And then they can drag those parts together into assemblies, 然後他們可以將這些部分一起拖入組件&lt;/p&gt;
-&lt;p&gt;and configure them for different load 並為不同負載配置它們的&lt;/p&gt;
-&lt;p&gt;cases or different variations of their models. 情況或他們的模型的不同變化&lt;/p&gt;
-&lt;p&gt;the other feature of haveing parts in the software 硬件部分的軟件中的另一個特點&lt;/p&gt;
-&lt;p&gt;is we do part instancing now,too. 我們現在也做實例化&lt;/p&gt;
-&lt;p&gt;So if you load in a part that has 所以如果你加載在一個部分&lt;/p&gt;
-&lt;p&gt;multiple instances through the model,we support that. 我們支持多個實例通過模型&lt;/p&gt;
-&lt;p&gt;We don't have to create multiple copies of it. 我們不必創建它的多個副本&lt;/p&gt;
-&lt;p&gt;We can actually do the instancing,which is very memory efficient. 我們可以做實際，這是非常有效的記憶。&lt;/p&gt;
-&lt;p&gt;Also in the model building assembly 也在模型建築組裝&lt;/p&gt;
-&lt;p&gt;tool set is enhanced ID management as well. 工具集也是增強的ID管理&lt;/p&gt;
-&lt;p&gt;So not only can we assign IDs based on different rules 因此，我們不僅可以根據不同的規則分配ID&lt;/p&gt;
-&lt;p&gt;that you define in the software,but you can import ID systems 您可以在軟件中定義，但可以導入ID系統&lt;/p&gt;
-&lt;p&gt;form spreadsheets,XML files,databases, 形式電子表格，XML文件，數據庫，&lt;/p&gt;
-&lt;p&gt;and so forth,that are then used when 等等，然後在使用&lt;/p&gt;
-&lt;p&gt;it does the renumbering or the assembly of the model. 它進行重新編號或模型的組裝&lt;/p&gt;
-&lt;p&gt;it has to resolve part collisions. 它必須解決部分碰撞。&lt;/p&gt;
-&lt;p&gt;Really important part of doing model assembly 做模型組裝重要的部分&lt;/p&gt;
-&lt;p&gt;is connecting all those parts together. 將所有這些部分連接在一起&lt;/p&gt;
-&lt;p&gt;Connectors are really vital to the overall assembly process. 連接器對整個裝配過程至關重要。&lt;/p&gt;
-&lt;p&gt;The quality of the connector that you create really 您真正創建的連接器的質量&lt;/p&gt;
-&lt;p&gt;determines the outcome of the quality 確定質量的結果&lt;/p&gt;
-&lt;p&gt;of the overall assembled model as well. 對整體組裝模型&lt;/p&gt;
-&lt;p&gt;So for us to get a good high fidelity solution, 所以為我們得到一個良好的高保真度解決方案&lt;/p&gt;
-&lt;p&gt;you have to have a really good connection generation as well. 你必須有一個非常好的連接生成&lt;/p&gt;
-&lt;h2&gt;心得&lt;/h2&gt;
-&lt;p&gt;翻了其中一部影片才知道原來翻譯上字幕是一件很辛苦的事  兩分鐘鐘的影片前後用了5.6小時&lt;/p&gt;</summary><category term="HW"></category></entry><entry><title>協同產品設計實習 第二周作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-er-zhou-zuo-ye.html" rel="alternate"></link><published>2017-03-04T12:08:00+08:00</published><updated>2017-03-04T12:08:00+08:00</updated><author><name>40443111</name></author><id>tag:,2017-03-04:./xie-tong-chan-pin-she-ji-shi-xi-di-er-zhou-zuo-ye.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;四連桿平面機構繪圖&lt;p&gt;
+
+
+
+# 第四週作業
+&lt;p&gt;利用簡報說明安裝 Hyperworks 套件過程, 透過使用 Hyperworks 進行連桿機構零件的應力分析與機構運動模擬.&lt;/p&gt;
+
+
+##零件1
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/36DwIO738Cc" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+##零件2
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/z4ATr6gLUHc" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+##零件3
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/jCcAs1av3e0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+##組裝
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ppPs7k-V0IQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="HW"></category></entry><entry><title>協同產品設計實習 第三周作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-san-zhou-zuo-ye.html" rel="alternate"></link><published>2017-03-12T12:08:00+08:00</published><updated>2017-03-12T12:08:00+08:00</updated><author><name>40443111</name></author><id>tag:,2017-03-12:./xie-tong-chan-pin-she-ji-shi-xi-di-san-zhou-zuo-ye.html</id><summary type="html">&lt;p&gt;Hyperworks翻譯(英翻中)&lt;p&gt;
+
+
+
+
+
+## 翻譯影片hyperworks2中文字幕
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/WGAmkWxPiig" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+##內容
+The 2017 HyperWorks release has a lot 在2017年HyperWorks發行很多版本
+
+of enhancements to the modeling and assembly capabilities 對軟件的建模和組裝能力的增強
+
+So we put in a new parts browser with a built-in part library 所以我們在一個新的零件瀏覽器與一個內置零件庫
+
+The part library is a great tool for storing and loading work in progress 零件庫是用於存儲和加載正在進行工作的一個很好的工具
+
+So you can store a catalog of all the common parts 因此，您可以存儲所有公共部分的目錄
+
+that a workgroup needs to use,so they can download their models from their PLM system 工作組需要使用，因此他們可以從他們的PLM系統下載他們的模型
+
+and store them locally in a parts library for a work in progress 並將它們本地存儲在正在進行的工作的零件庫中
+
+And it keeps revision control on them, 他保持對它們的修訂控制
+
+so they can back up to the different versions and reload. 所以他們可以備份到不同的版本並重新加載。
+
+And they can also build different configurations now of their models. 他們也可以建立不同的配置到他們現在的的模型。
+
+In the configuration modeler now 現在在配置建模器
+
+they can import parts from part library and then group 他們可以從零件庫導入零件然後分組
+
+them into what we call part sets,which are 他們變成我們所說的部分集
+
+convenient groupings of parts. 即零件方便分組
+
+And then they can drag those parts together into assemblies, 然後他們可以將這些部分一起拖入組件
+
+and configure them for different load 並為不同負載配置它們的
+
+cases or different variations of their models. 情況或他們的模型的不同變化
+
+the other feature of haveing parts in the software 硬件部分的軟件中的另一個特點
+
+is we do part instancing now,too. 我們現在也做實例化
+
+So if you load in a part that has 所以如果你加載在一個部分
+
+multiple instances through the model,we support that. 我們支持多個實例通過模型
+
+We don't have to create multiple copies of it. 我們不必創建它的多個副本
+
+We can actually do the instancing,which is very memory efficient. 我們可以做實際，這是非常有效的記憶。
+
+Also in the model building assembly 也在模型建築組裝
+
+tool set is enhanced ID management as well. 工具集也是增強的ID管理
+
+So not only can we assign IDs based on different rules 因此，我們不僅可以根據不同的規則分配ID
+
+that you define in the software,but you can import ID systems 您可以在軟件中定義，但可以導入ID系統
+
+form spreadsheets,XML files,databases, 形式電子表格，XML文件，數據庫，
+
+and so forth,that are then used when 等等，然後在使用
+
+it does the renumbering or the assembly of the model. 它進行重新編號或模型的組裝
+
+it has to resolve part collisions. 它必須解決部分碰撞。
+
+Really important part of doing model assembly 做模型組裝重要的部分
+
+is connecting all those parts together. 將所有這些部分連接在一起
+
+Connectors are really vital to the overall assembly process. 連接器對整個裝配過程至關重要。
+
+The quality of the connector that you create really 您真正創建的連接器的質量
+
+determines the outcome of the quality 確定質量的結果
+
+of the overall assembled model as well. 對整體組裝模型
+
+So for us to get a good high fidelity solution, 所以為我們得到一個良好的高保真度解決方案
+
+you have to have a really good connection generation as well. 你必須有一個非常好的連接生成
+
+## 翻譯影片hyperworks 14-6中文字幕 
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/fTgaulekEZ4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+##內容
+The 2017 HyperWorks release has a lot 在2017年HyperWorks發行很多版本
+
+of enhancements to the modeling and assembly capabilities 對軟件的建模和組裝能力的增強
+
+So we put in a new parts browser with a built-in part library 所以我們在一個新的零件瀏覽器與一個內置零件庫
+
+The part library is a great tool for storing and loading work in progress 零件庫是用於存儲和加載正在進行工作的一個很好的工具
+
+So you can store a catalog of all the common parts 因此，您可以存儲所有公共部分的目錄
+
+that a workgroup needs to use,so they can download their models from their PLM system 工作組需要使用，因此他們可以從他們的PLM系統下載他們的模型
+
+and store them locally in a parts library for a work in progress 並將它們本地存儲在正在進行的工作的零件庫中
+
+And it keeps revision control on them, 他保持對它們的修訂控制
+
+so they can back up to the different versions and reload. 所以他們可以備份到不同的版本並重新加載。
+
+And they can also build different configurations now of their models. 他們也可以建立不同的配置到他們現在的的模型。
+
+In the configuration modeler now 現在在配置建模器
+
+they can import parts from part library and then group 他們可以從零件庫導入零件然後分組
+
+them into what we call part sets,which are 他們變成我們所說的部分集
+
+convenient groupings of parts. 即零件方便分組
+
+And then they can drag those parts together into assemblies, 然後他們可以將這些部分一起拖入組件
+
+and configure them for different load 並為不同負載配置它們的
+
+cases or different variations of their models. 情況或他們的模型的不同變化
+
+the other feature of haveing parts in the software 硬件部分的軟件中的另一個特點
+
+is we do part instancing now,too. 我們現在也做實例化
+
+So if you load in a part that has 所以如果你加載在一個部分
+
+multiple instances through the model,we support that. 我們支持多個實例通過模型
+
+We don't have to create multiple copies of it. 我們不必創建它的多個副本
+
+We can actually do the instancing,which is very memory efficient. 我們可以做實際，這是非常有效的記憶。
+
+Also in the model building assembly 也在模型建築組裝
+
+tool set is enhanced ID management as well. 工具集也是增強的ID管理
+
+So not only can we assign IDs based on different rules 因此，我們不僅可以根據不同的規則分配ID
+
+that you define in the software,but you can import ID systems 您可以在軟件中定義，但可以導入ID系統
+
+form spreadsheets,XML files,databases, 形式電子表格，XML文件，數據庫，
+
+and so forth,that are then used when 等等，然後在使用
+
+it does the renumbering or the assembly of the model. 它進行重新編號或模型的組裝
+
+it has to resolve part collisions. 它必須解決部分碰撞。
+
+Really important part of doing model assembly 做模型組裝重要的部分
+
+is connecting all those parts together. 將所有這些部分連接在一起
+
+Connectors are really vital to the overall assembly process. 連接器對整個裝配過程至關重要。
+
+The quality of the connector that you create really 您真正創建的連接器的質量
+
+determines the outcome of the quality 確定質量的結果
+
+of the overall assembled model as well. 對整體組裝模型
+
+So for us to get a good high fidelity solution, 所以為我們得到一個良好的高保真度解決方案
+
+you have to have a really good connection generation as well. 你必須有一個非常好的連接生成
+##心得
+翻了其中一部影片才知道原來翻譯上字幕是一件很辛苦的事  兩分鐘鐘的影片前後用了5.6小時</summary><category term="HW"></category></entry><entry><title>協同產品設計實習 第二周作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-er-zhou-zuo-ye.html" rel="alternate"></link><published>2017-03-04T12:08:00+08:00</published><updated>2017-03-04T12:08:00+08:00</updated><author><name>40443111</name></author><id>tag:,2017-03-04:./xie-tong-chan-pin-she-ji-shi-xi-di-er-zhou-zuo-ye.html</id><summary type="html">&lt;p&gt;利用Solvespace繪製四連桿機構&lt;/p&gt;
+
+
 
 &lt;h2&gt;四連桿&lt;/h2&gt;
 &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/A4StLhnoHjk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;

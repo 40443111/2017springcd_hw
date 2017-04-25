@@ -1,5 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017springcd電腦輔助設計實習 協同產品設計實習(虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-04-03T12:08:00+08:00</updated><entry><title>協同產品設計實習 第六周作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-liu-zhou-zuo-ye.html" rel="alternate"></link><published>2017-04-03T12:08:00+08:00</published><updated>2017-04-03T12:08:00+08:00</updated><author><name>40443111</name></author><id>tag:,2017-04-03:./xie-tong-chan-pin-she-ji-shi-xi-di-liu-zhou-zuo-ye.html</id><summary type="html">&lt;p&gt;四連桿運動模擬&lt;p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017springcd電腦輔助設計實習 協同產品設計實習(虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-04-20T12:08:00+08:00</updated><entry><title>協同產品設計實習 期中協同查驗與自評</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-qi-zhong-xie-tong-cha-yan-yu-zi-ping.html" rel="alternate"></link><published>2017-04-20T12:08:00+08:00</published><updated>2017-04-20T12:08:00+08:00</updated><author><name>40443111</name></author><id>tag:,2017-04-20:./xie-tong-chan-pin-she-ji-shi-xi-qi-zhong-xie-tong-cha-yan-yu-zi-ping.html</id><summary type="html">&lt;p&gt;Fossil Server 實習查驗&lt;p&gt;
+
+&lt;p&gt;四連桿機構協同 Trace Point 查驗&lt;p&gt;
+
+&lt;p&gt;Fourbar Walker OnShape 零件協同繪圖與組立查驗&lt;p&gt;
+
+&lt;p&gt;分組協同零件展示&lt;p&gt;
+
+
+
+
+
+
+&lt;p&gt;(一) Fossil Server 實習查驗&lt;p&gt;
+
+&lt;a href="https://mde2a2.kmol.info/midterm/ag1/index"&gt;ag1期中考報告 fossil &lt;/a&gt;
+
+&lt;p&gt;(二) 四連桿機構協同 Trace Point 查驗&lt;p&gt;
+
+&lt;p&gt;四連趕機構製作影片&lt;p&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/zMM4sesDVzE?ecver=1" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;(三) Fourbar Walker OnShape 零件協同繪圖與組立查驗&lt;p&gt;
+
+&lt;p&gt;利用SolveSpace畫Fourbar Walker影片&lt;p&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/V0OtKulxlzY?ecver=1" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;利用SolveSpace畫Fourbar Walker圖片&lt;p&gt;
+
+&lt;a href="http://imgur.com13/IY3RC"&gt;&lt;img src="http://i.imgur.com/IY313RC.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+
+&lt;p&gt;利用OnShape組立Fourbar Walker影片&lt;p&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/FPcyZXgrDn0?ecver=1" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;(四) 分組協同零件展示&lt;p&gt;
+
+&lt;link href="./../work/madeleine/src/css/Madeleine.css" rel="stylesheet"&gt;
+&lt;script src="./../work/madeleine/src/stats.js"&gt;&lt;/script&gt;
+&lt;script src="./../work/madeleine/src/detector.js"&gt;&lt;/script&gt;
+&lt;script src="./../work/madeleine/src/three.min.js"&gt;&lt;/script&gt;
+&lt;script src="./../work/madeleine/src/Madeleine.js"&gt;&lt;/script&gt;
+
+&lt;div id="target" class="madeleine"&gt;&lt;/div&gt;
+
+&lt;script&gt;
+window.onload = function(){
+    var madeleine = new Madeleine({
+      target: 'target', // target div id
+      data: './../data/Fourbar Walker.stl', // data path
+      path: './../work/madeleine/src/' // path to source directory from current html file
+    });
+}; 
+&lt;/script&gt;
+
+&lt;script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r68/three.min.js"
+&gt;&lt;/script&gt;
+&lt;script src="https://rawgit.com/mrdoob/three.js/master/examples/js/controls/TrackballControls.js"
+&gt;&lt;/script&gt;
+&lt;script src="./../w9/loader.js"&gt;&lt;/script&gt;
+&lt;script src="./../w9/stl.js"&gt;&lt;/script&gt;
+&lt;div&gt;
+select stl file: &lt;input type="file" id="file" /&gt; or drop stl file
+&lt;/div&gt;
+&lt;div id="view"&gt;&lt;/div&gt;</summary><category term="HW"></category></entry><entry><title>協同產品設計實習 第六周作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-liu-zhou-zuo-ye.html" rel="alternate"></link><published>2017-04-03T12:08:00+08:00</published><updated>2017-04-03T12:08:00+08:00</updated><author><name>40443111</name></author><id>tag:,2017-04-03:./xie-tong-chan-pin-she-ji-shi-xi-di-liu-zhou-zuo-ye.html</id><summary type="html">&lt;p&gt;四連桿運動模擬&lt;p&gt;
 
 &lt;p&gt;八連桿運動模擬&lt;p&gt;
 
@@ -8,39 +74,49 @@
 
 
 
-##四連桿零件 
+&lt;p&gt;四連桿零件 &lt;p&gt;
+
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/0XuW6fqn_tg?ecver=1" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
-##四連桿組合 
+&lt;p&gt;四連桿組合 &lt;p&gt;
+
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/xqofOG86Xg0?ecver=1" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
-##四連桿零v-rep
+&lt;p&gt;四連桿零v-rep&lt;p&gt;
+
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/pph68qt9K6I?ecver=1" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
-##8bars零件 
+&lt;p&gt;8bars零件 &lt;p&gt;
+
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/QmDVc58vzr0?ecver=1" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
-##8bars零件 
+&lt;p&gt;8bars零件 &lt;p&gt;
+
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/xqofOG86Xg0?ecver=1" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
-##8bars零件 
+&lt;p&gt;8bars零件 &lt;p&gt;
+
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/_9PB35Xnj3c?ecver=1" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
-##心得
+&lt;p&gt;心得&lt;p&gt;
+
 這次是花了最多時間的一次,也是重畫最多次的一遍,幸好最後還是撐工畫出來了</summary><category term="HW"></category></entry><entry><title>協同產品設計實習 第五周作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-wu-zhou-zuo-ye.html" rel="alternate"></link><published>2017-03-26T12:08:00+08:00</published><updated>2017-03-26T12:08:00+08:00</updated><author><name>40443111</name></author><id>tag:,2017-03-26:./xie-tong-chan-pin-she-ji-shi-xi-di-wu-zhou-zuo-ye.html</id><summary type="html">&lt;p&gt;單連桿機構轉入 V-rep 進行運動模擬&lt;p&gt;
 
 
 
 
 
-##單連桿模擬
+&lt;p&gt;單連桿模擬&lt;p&gt;
+
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/aeKd2fck0Ns?ecver=1" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
-##利用v-rep設定單連桿運動
+&lt;p&gt;利用v-rep設定單連桿運動&lt;p&gt;
+
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/mC2ZDZPBd-8?ecver=1" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
-##心得
+&lt;p&gt;心得&lt;p&gt;
+
 本來想說怎麼部會動 原來是數值給的不夠</summary><category term="HW"></category></entry><entry><title>協同產品設計實習 第四周作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-si-zhou-zuo-ye.html" rel="alternate"></link><published>2017-03-19T12:08:00+08:00</published><updated>2017-03-19T12:08:00+08:00</updated><author><name>40443111</name></author><id>tag:,2017-03-19:./xie-tong-chan-pin-she-ji-shi-xi-di-si-zhou-zuo-ye.html</id><summary type="html">&lt;p&gt;利用Solvespace及Onshape繪製四連桿機構並組立&lt;p&gt;
 
 &lt;p&gt;將四連桿機構組立轉成STL檔，並轉入V-rep&lt;p&gt;
@@ -50,27 +126,33 @@
 
 
 
-# 第四週作業
+#&lt;p&gt;第四週作業&lt;p&gt;
+
 &lt;p&gt;利用簡報說明安裝 Hyperworks 套件過程, 透過使用 Hyperworks 進行連桿機構零件的應力分析與機構運動模擬.&lt;/p&gt;
 
 
-##零件1
+&lt;p&gt;零件1&lt;p&gt;
+
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/36DwIO738Cc" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
-##零件2
+&lt;p&gt;零件2&lt;p&gt;
+
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/z4ATr6gLUHc" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
-##零件3
+&lt;p&gt;零件3&lt;p&gt;
+
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/jCcAs1av3e0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
-##組裝
+&lt;p&gt;組裝&lt;p&gt;
+
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ppPs7k-V0IQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="HW"></category></entry><entry><title>協同產品設計實習 第三周作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-san-zhou-zuo-ye.html" rel="alternate"></link><published>2017-03-12T12:08:00+08:00</published><updated>2017-03-12T12:08:00+08:00</updated><author><name>40443111</name></author><id>tag:,2017-03-12:./xie-tong-chan-pin-she-ji-shi-xi-di-san-zhou-zuo-ye.html</id><summary type="html">&lt;p&gt;Hyperworks翻譯(英翻中)&lt;p&gt;
 
 
 
 
 
-## 翻譯影片hyperworks2中文字幕
+&lt;p&gt;翻譯影片hyperworks2中文字幕&lt;p&gt;
+
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/WGAmkWxPiig" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 ##內容
 The 2017 HyperWorks release has a lot 在2017年HyperWorks發行很多版本
@@ -151,7 +233,8 @@ So for us to get a good high fidelity solution, 所以為我們得到一個良�
 
 you have to have a really good connection generation as well. 你必須有一個非常好的連接生成
 
-## 翻譯影片hyperworks 14-6中文字幕 
+&lt;p&gt;翻譯影片hyperworks 14-6中文字幕 &lt;p&gt;
+
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/fTgaulekEZ4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 ##內容
 The 2017 HyperWorks release has a lot 在2017年HyperWorks發行很多版本
@@ -231,14 +314,13 @@ of the overall assembled model as well. 對整體組裝模型
 So for us to get a good high fidelity solution, 所以為我們得到一個良好的高保真度解決方案
 
 you have to have a really good connection generation as well. 你必須有一個非常好的連接生成
-##心得
+&lt;p&gt;心得&lt;p&gt;
 翻了其中一部影片才知道原來翻譯上字幕是一件很辛苦的事  兩分鐘鐘的影片前後用了5.6小時</summary><category term="HW"></category></entry><entry><title>協同產品設計實習 第二周作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-er-zhou-zuo-ye.html" rel="alternate"></link><published>2017-03-04T12:08:00+08:00</published><updated>2017-03-04T12:08:00+08:00</updated><author><name>40443111</name></author><id>tag:,2017-03-04:./xie-tong-chan-pin-she-ji-shi-xi-di-er-zhou-zuo-ye.html</id><summary type="html">&lt;p&gt;利用Solvespace繪製四連桿機構&lt;/p&gt;
 
 
 
-&lt;h2&gt;四連桿&lt;/h2&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/A4StLhnoHjk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;h2&gt;作業心得&lt;/h2&gt;</summary><category term="HW"></category></entry><entry><title>協同產品設計實習 第一周作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-yi-zhou-zuo-ye.html" rel="alternate"></link><published>2017-02-26T12:08:00+08:00</published><updated>2017-02-26T12:08:00+08:00</updated><author><name>40443111</name></author><id>tag:,2017-02-26:./xie-tong-chan-pin-she-ji-shi-xi-di-yi-zhou-zuo-ye.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;四連桿&lt;p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/A4StLhnoHjk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="HW"></category></entry><entry><title>協同產品設計實習 第一周作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-yi-zhou-zuo-ye.html" rel="alternate"></link><published>2017-02-26T12:08:00+08:00</published><updated>2017-02-26T12:08:00+08:00</updated><author><name>40443111</name></author><id>tag:,2017-02-26:./xie-tong-chan-pin-she-ji-shi-xi-di-yi-zhou-zuo-ye.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h1&gt;利用solvespace及onshape組裝四連桿機構&lt;/h1&gt;
 &lt;h2&gt;零件1&lt;/h2&gt;

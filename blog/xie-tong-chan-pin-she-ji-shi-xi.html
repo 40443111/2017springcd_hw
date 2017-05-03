@@ -2,8 +2,7 @@
 <html lang="en"
 >
 <head>
-    <title>Search - 2017springcd電腦輔助設計實習 協同產品設計實習(虎尾科大MDE)
-</title>
+    <title>協同產品設計實習 - 2017springcd電腦輔助設計實習 協同產品設計實習(虎尾科大MDE)</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -167,15 +166,21 @@ init_mathjax = function() {
 init_mathjax();
 </script>
 
+<link rel="canonical" href="./xie-tong-chan-pin-she-ji-shi-xi.html">
 
-        <meta name="author" content="KMOL" />
+        <meta name="author" content="40443111" />
+        <meta name="keywords" content="HW" />
+        <meta name="description" content="1.加法查驗" />
 
-    <!-- Open Graph tags -->
         <meta property="og:site_name" content="2017springcd電腦輔助設計實習 協同產品設計實習(虎尾科大MDE)" />
-        <meta property="og:type" content="website"/>
-        <meta property="og:title" content="2017springcd電腦輔助設計實習 協同產品設計實習(虎尾科大MDE)"/>
-        <meta property="og:url" content="."/>
-        <meta property="og:description" content="2017springcd電腦輔助設計實習 協同產品設計實習(虎尾科大MDE)"/>
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="協同產品設計實習"/>
+        <meta property="og:url" content="./xie-tong-chan-pin-she-ji-shi-xi.html"/>
+        <meta property="og:description" content="1.加法查驗"/>
+        <meta property="article:published_time" content="2017-04-27" />
+            <meta property="article:section" content="HW" />
+            <meta property="article:tag" content="HW" />
+            <meta property="article:author" content="40443111" />
 
 
     <!-- Bootstrap -->
@@ -256,7 +261,7 @@ init_mathjax();
                          <li><a href="./pages/about/">
                              About
                           </a></li>
-                        <li >
+                        <li class="active">
                             <a href="./category/hw.html">Hw</a>
                         </li>
             </ul>
@@ -278,7 +283,126 @@ init_mathjax();
     <div class="row">
         <div class="col-sm-9">
 
-<div id="tipue_search_content"></div>
+    <section id="content">
+        <article>
+            <header class="page-header">
+                <h1>
+                    <a href="./xie-tong-chan-pin-she-ji-shi-xi.html"
+                       rel="bookmark"
+                       title="Permalink to 協同產品設計實習">
+                        協同產品設計實習
+                    </a>
+                </h1>
+            </header>
+            <div class="entry-content">
+                <div class="panel">
+                    <div class="panel-body">
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2017-04-27T12:08:00+08:00"> 週四 27 四月 2017</time>
+    </span>
+            <span class="label label-default">By</span>
+            <a href="./author/40443111.html"><i class="fa fa-user"></i> 40443111</a>
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="./tag/hw.html">HW</a>
+    
+</footer><!-- /.post-info -->                    </div>
+                </div>
+                <p>1.加法查驗</p>
+
+
+<h2>加法查驗</h2>
+<p>加法查驗影片</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KrVRWU1XzOw?ecver=1" frameborder="0" allowfullscreen></iframe>
+
+<p>程式碼</p>
+<p>mul.py
+<pre class="brush: python">
+def mul(a, b): #定義 a , b
+    return a+b #a 加 b
+</pre></p>
+<p>app2.py
+<pre class="brush: python">
+import sys #導入 sys
+sys.path.append("./m1") #資料夾路徑
+import mul #導入 mul.py</p>
+<p>multiply = mul.mul(5, 5) #乘法演算</p>
+<p>print(multiply) #輸出結果
+</pre></p>
+<!-- 導入 Brython 標準程式庫 -->
+
+<script src="../data/Brython-3.3.1/brython.js"></script>
+
+<script src="../data/Brython-3.3.1/brython_stdlib.js"></script>
+
+<!-- 啟動 Brython -->
+
+<script>
+window.onload=function(){
+// 設定 data/py 為共用程式路徑
+brython({debug:1, pythonpath:['./../data/py']});
+}
+</script>
+
+<!-- 以下實際利用  Brython 畫四連桿 trace point 路徑-->
+
+<canvas id="fourbar" width="800" height="600"></canvas>
+
+<script type="text/python3">
+from browser import document as doc
+from browser import html
+import math
+# 導入 fourbar 
+import fourbar
+# 準備繪圖畫布
+canvas = doc["fourbar"]
+ctx = canvas.getContext("2d")
+
+# First of all, the import of some libraries
+from browser import document as doc
+from browser import html
+
+# All the elements will be inserted in the div with the "container" id
+container = doc['container']
+
+# We create a new div element
+newdiv = html.DIV(id = "new-div")
+# Now we add some style
+newdiv.style = {"padding": "5px", 
+               "backgroundColor": "#ADD8E6"}
+
+# Now, lets add a table with a column with numbers and a
+# column with a word on each cell
+text = "Brython is really cool"
+textlist = text.split()
+table = html.TABLE()
+for i, word in enumerate(textlist):
+    table <= html.TR(html.TD(i + 1) + 
+                     html.TD(word))
+# Now we add some style to the table
+table.style = {"padding": "5px", 
+               "backgroundColor": "#aaaaaa",
+               "width": "100%"}
+# Now we add the table to the new div previously created
+newdiv <= table + html.BR()
+
+# a form? why not?
+form = html.FORM()
+input1 = html.INPUT(type="text", name="firstname", value="First name")
+input2 = html.INPUT(type="text", name="lastname", value="Last name")
+input3 = html.BUTTON("Button with no action!")
+form <= input1 + html.BR() + input2 + html.BR() + input3
+
+newdiv <= form + html.BR()
+            </div>
+            <!-- /.entry-content -->
+        </article>
+    </section>
+
         </div>
         <div class="col-sm-3" id="sidebar">
             <aside>
@@ -381,20 +505,5 @@ init_mathjax();
 <script src="./theme/js/respond.min.js"></script>
 
 
-    <link href="./theme/tipuesearch/tipuesearch.css" rel="stylesheet">
-    <script type="text/javascript" src="./theme/tipuesearch/tipuesearch_set.js"></script>
-    <script type="text/javascript" src="./theme/tipuesearch/tipuesearch.min.js"></script>
-    <!-- 導入 local Tipue search 所需要的 tipuesearch_content.js -->
-    <script type="text/javascript" src="./tipuesearch_content.js"></script>
-    <script>
-    $(document).ready(function() {
-      $('#tipue_search_input').tipuesearch({
-        'mode' : 'static',
-        'show': 10,
-        'minimumLength': 2,
-        'newWindow': false
-      });
-    });
-    </script>
 </body>
 </html>

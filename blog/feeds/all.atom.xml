@@ -1,5 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017springcd電腦輔助設計實習 協同產品設計實習(虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-04-20T12:08:00+08:00</updated><entry><title>協同產品設計實習 期中協同查驗與自評</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-qi-zhong-xie-tong-cha-yan-yu-zi-ping.html" rel="alternate"></link><published>2017-04-20T12:08:00+08:00</published><updated>2017-04-20T12:08:00+08:00</updated><author><name>40443111</name></author><id>tag:,2017-04-20:./xie-tong-chan-pin-she-ji-shi-xi-qi-zhong-xie-tong-cha-yan-yu-zi-ping.html</id><summary type="html">&lt;p&gt;Fossil Server 實習查驗&lt;p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017springcd電腦輔助設計實習 協同產品設計實習(虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-04-27T12:08:00+08:00</updated><entry><title>協同產品設計實習</title><link href="./xie-tong-chan-pin-she-ji-shi-xi.html" rel="alternate"></link><published>2017-04-27T12:08:00+08:00</published><updated>2017-04-27T12:08:00+08:00</updated><author><name>40443111</name></author><id>tag:,2017-04-27:./xie-tong-chan-pin-she-ji-shi-xi.html</id><summary type="html">&lt;p&gt;1.加法查驗&lt;/p&gt;
+
+
+&lt;h2&gt;加法查驗&lt;/h2&gt;
+&lt;p&gt;加法查驗影片&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/KrVRWU1XzOw?ecver=1" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;程式碼&lt;/p&gt;
+&lt;p&gt;mul.py
+&lt;pre class="brush: python"&gt;
+def mul(a, b): #定義 a , b
+    return a+b #a 加 b
+&lt;/pre&gt;&lt;/p&gt;
+&lt;p&gt;app2.py
+&lt;pre class="brush: python"&gt;
+import sys #導入 sys
+sys.path.append("./m1") #資料夾路徑
+import mul #導入 mul.py&lt;/p&gt;
+&lt;p&gt;multiply = mul.mul(5, 5) #乘法演算&lt;/p&gt;
+&lt;p&gt;print(multiply) #輸出結果
+&lt;/pre&gt;&lt;/p&gt;
+&lt;!-- 導入 Brython 標準程式庫 --&gt;
+
+&lt;script src="../data/Brython-3.3.1/brython.js"&gt;&lt;/script&gt;
+
+&lt;script src="../data/Brython-3.3.1/brython_stdlib.js"&gt;&lt;/script&gt;
+
+&lt;!-- 啟動 Brython --&gt;
+
+&lt;script&gt;
+window.onload=function(){
+// 設定 data/py 為共用程式路徑
+brython({debug:1, pythonpath:['./../data/py']});
+}
+&lt;/script&gt;
+
+&lt;!-- 以下實際利用  Brython 畫四連桿 trace point 路徑--&gt;
+
+&lt;canvas id="fourbar" width="800" height="600"&gt;&lt;/canvas&gt;
+
+&lt;script type="text/python3"&gt;
+from browser import document as doc
+from browser import html
+import math
+# 導入 fourbar 
+import fourbar
+# 準備繪圖畫布
+canvas = doc["fourbar"]
+ctx = canvas.getContext("2d")
+
+# First of all, the import of some libraries
+from browser import document as doc
+from browser import html
+
+# All the elements will be inserted in the div with the "container" id
+container = doc['container']
+
+# We create a new div element
+newdiv = html.DIV(id = "new-div")
+# Now we add some style
+newdiv.style = {"padding": "5px", 
+               "backgroundColor": "#ADD8E6"}
+
+# Now, lets add a table with a column with numbers and a
+# column with a word on each cell
+text = "Brython is really cool"
+textlist = text.split()
+table = html.TABLE()
+for i, word in enumerate(textlist):
+    table &lt;= html.TR(html.TD(i + 1) + 
+                     html.TD(word))
+# Now we add some style to the table
+table.style = {"padding": "5px", 
+               "backgroundColor": "#aaaaaa",
+               "width": "100%"}
+# Now we add the table to the new div previously created
+newdiv &lt;= table + html.BR()
+
+# a form? why not?
+form = html.FORM()
+input1 = html.INPUT(type="text", name="firstname", value="First name")
+input2 = html.INPUT(type="text", name="lastname", value="Last name")
+input3 = html.BUTTON("Button with no action!")
+form &lt;= input1 + html.BR() + input2 + html.BR() + input3
+
+newdiv &lt;= form + html.BR()</summary><category term="HW"></category></entry><entry><title>協同產品設計實習 期中協同查驗與自評</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-qi-zhong-xie-tong-cha-yan-yu-zi-ping.html" rel="alternate"></link><published>2017-04-20T12:08:00+08:00</published><updated>2017-04-20T12:08:00+08:00</updated><author><name>40443111</name></author><id>tag:,2017-04-20:./xie-tong-chan-pin-she-ji-shi-xi-qi-zhong-xie-tong-cha-yan-yu-zi-ping.html</id><summary type="html">&lt;p&gt;Fossil Server 實習查驗&lt;p&gt;
 
 &lt;p&gt;四連桿機構協同 Trace Point 查驗&lt;p&gt;
 

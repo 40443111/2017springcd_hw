@@ -35,56 +35,45 @@ brython({debug:1, pythonpath:['./../data/py']});
 }
 &lt;/script&gt;
 
+&lt;h1&gt;網頁測試乘法&lt;/h1&gt;
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;!-- 導入 Brython 標準程式庫 --&gt;
+
+&lt;script src="../data/brython.js"&gt;&lt;/script&gt;
+
+&lt;script src="../data/brython_stdlib.js"&gt;&lt;/script&gt;
+
+&lt;!-- 啟動 Brython --&gt;
+
+&lt;script&gt;
+window.onload=function(){
+// 設定 data/py 為共用程式路徑
+brython({debug:1, pythonpath:['./../data/py']});
+}
+&lt;/script&gt;
+
 &lt;!-- 以下實際利用  Brython 畫四連桿 trace point 路徑--&gt;
 
-&lt;canvas id="fourbar" width="800" height="600"&gt;&lt;/canvas&gt;
+&lt;!--&lt;canvas id="w10" width="800" height="600"&gt;&lt;/canvas&gt;--&gt;
+
+&lt;div id="container3" width="600" height="400"&gt;&lt;/div&gt;
 
 &lt;script type="text/python3"&gt;
 from browser import document as doc
 from browser import html
 import math
-# 導入 fourbar 
-import fourbar
-# 準備繪圖畫布
-canvas = doc["fourbar"]
-ctx = canvas.getContext("2d")
+container = doc['container3']
+degree = math.pi/180
+def button3(event):
+    a = input("give me a")
+    b = input("give me b")
+    container &lt;= str(float(a)+float(b))
+doc["button3"].bind("click", button3)
 
-# First of all, the import of some libraries
-from browser import document as doc
-from browser import html
+&lt;/script&gt;
 
-# All the elements will be inserted in the div with the "container" id
-container = doc['container']
-
-# We create a new div element
-newdiv = html.DIV(id = "new-div")
-# Now we add some style
-newdiv.style = {"padding": "5px", 
-               "backgroundColor": "#ADD8E6"}
-
-# Now, lets add a table with a column with numbers and a
-# column with a word on each cell
-text = "Brython is really cool"
-textlist = text.split()
-table = html.TABLE()
-for i, word in enumerate(textlist):
-    table &lt;= html.TR(html.TD(i + 1) + 
-                     html.TD(word))
-# Now we add some style to the table
-table.style = {"padding": "5px", 
-               "backgroundColor": "#aaaaaa",
-               "width": "100%"}
-# Now we add the table to the new div previously created
-newdiv &lt;= table + html.BR()
-
-# a form? why not?
-form = html.FORM()
-input1 = html.INPUT(type="text", name="firstname", value="First name")
-input2 = html.INPUT(type="text", name="lastname", value="Last name")
-input3 = html.BUTTON("Button with no action!")
-form &lt;= input1 + html.BR() + input2 + html.BR() + input3
-
-newdiv &lt;= form + html.BR()</summary><category term="HW"></category></entry><entry><title>協同產品設計實習 期中協同查驗與自評</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-qi-zhong-xie-tong-cha-yan-yu-zi-ping.html" rel="alternate"></link><published>2017-04-20T12:08:00+08:00</published><updated>2017-04-20T12:08:00+08:00</updated><author><name>40443111</name></author><id>tag:,2017-04-20:./xie-tong-chan-pin-she-ji-shi-xi-qi-zhong-xie-tong-cha-yan-yu-zi-ping.html</id><summary type="html">&lt;p&gt;Fossil Server 實習查驗&lt;p&gt;
+&lt;p&gt;&lt;button id="button3"&gt;按下取 a b 值&lt;/button&gt;&lt;/p&gt;</summary><category term="HW"></category></entry><entry><title>協同產品設計實習 期中協同查驗與自評</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-qi-zhong-xie-tong-cha-yan-yu-zi-ping.html" rel="alternate"></link><published>2017-04-20T12:08:00+08:00</published><updated>2017-04-20T12:08:00+08:00</updated><author><name>40443111</name></author><id>tag:,2017-04-20:./xie-tong-chan-pin-she-ji-shi-xi-qi-zhong-xie-tong-cha-yan-yu-zi-ping.html</id><summary type="html">&lt;p&gt;Fossil Server 實習查驗&lt;p&gt;
 
 &lt;p&gt;四連桿機構協同 Trace Point 查驗&lt;p&gt;
 

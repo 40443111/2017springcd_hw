@@ -5,35 +5,56 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2017-05-04T15:30:44-00:00</lastmod>
+<lastmod>2017-05-10T19:15:40-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2017-05-04T15:30:44-00:00</lastmod>
+<lastmod>2017-05-10T19:15:40-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2017-05-04T15:30:44-00:00</lastmod>
+<lastmod>2017-05-10T19:15:40-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2017-05-04T15:30:44-00:00</lastmod>
+<lastmod>2017-05-10T19:15:40-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./pages/about/</loc>
-<lastmod>2017-05-04T15:28:12+08:00</lastmod>
+<lastmod>2017-05-10T19:04:11+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./duo-si-lian-gan-xing-zou-ji-gou-mo-ni.html</loc>
+<lastmod>2017-05-04T12:08:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./xie-tong-xie-tong-chan-pin-she-ji-shi-xi-di-shi-yi-zhou-zuo-ye-zhi-er.html</loc>
+<lastmod>2017-05-03T12:08:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./xie-tong-chan-pin-she-ji-shi-xi-di-shi-yi-zhou-zuo-ye-zhi-yi.html</loc>
+<lastmod>2017-05-02T12:08:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -96,21 +117,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./category/hw.html</loc>
-<lastmod>2017-04-27T12:08:00+08:06</lastmod>
+<lastmod>2017-05-04T12:08:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/hw.html</loc>
-<lastmod>2017-04-27T12:08:00+08:06</lastmod>
+<lastmod>2017-05-04T12:08:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./author/40443111.html</loc>
-<lastmod>2017-04-27T12:08:00+08:06</lastmod>
+<lastmod>2017-05-04T12:08:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

@@ -140,7 +140,10 @@ n = 36
 # 壓力角
 pa = 20
 Spur(ctx).Gear(x, y, r, n, pa, "blue")
-&lt;/script&gt;</summary><category term="HW"></category></entry><entry><title>協同協同產品設計實習 第十五周作業</title><link href="./xie-tong-xie-tong-chan-pin-she-ji-shi-xi-di-shi-wu-zhou-zuo-ye.html" rel="alternate"></link><published>2017-06-01T12:08:00+08:00</published><updated>2017-06-01T12:08:00+08:00</updated><author><name>40443111</name></author><id>tag:,2017-06-01:./xie-tong-xie-tong-chan-pin-she-ji-shi-xi-di-shi-wu-zhou-zuo-ye.html</id><summary type="html">&lt;p&gt;1.半齒形的漸開線正齒輪輪廓&lt;/p&gt;
+&lt;/script&gt;
+
+&lt;h1&gt;3.子模組建立與運用&lt;/h1&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Ed2qvfWHSv0?ecver=1" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="HW"></category></entry><entry><title>協同協同產品設計實習 第十五周作業</title><link href="./xie-tong-xie-tong-chan-pin-she-ji-shi-xi-di-shi-wu-zhou-zuo-ye.html" rel="alternate"></link><published>2017-06-01T12:08:00+08:00</published><updated>2017-06-01T12:08:00+08:00</updated><author><name>40443111</name></author><id>tag:,2017-06-01:./xie-tong-xie-tong-chan-pin-she-ji-shi-xi-di-shi-wu-zhou-zuo-ye.html</id><summary type="html">&lt;p&gt;1.半齒形的漸開線正齒輪輪廓&lt;/p&gt;
 &lt;p&gt;2.繪製一齒正齒輪&lt;/p&gt;
 &lt;p&gt;3.協同2D正齒輪嚙合&lt;/p&gt;
 &lt;p&gt;4.利用Onshape協同繪製正齒輪嚙合&lt;/p&gt;
